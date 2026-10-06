@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — ![Screenshot 2026-10-05 125458](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/f9eb0759f300a0846d2e74cfa141a9e3a3d105fba2bfd5d8ea6233f2b44aa0d3.png)](#2026-10-05-screenshot-2026-10-05-125458httpshalflifehackclub)
-2. [2026-10-05 — Work session](#2026-10-05-work-session)
+2. [2026-10-05 — ![Screenshot 2026-10-05 165322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/a6c81c1c9d2c90147334c4cd05d6a85e281f5b1a6e8aee32fd0ed1406091a0ac.png)](#2026-10-05-screenshot-2026-10-05-165322httpshalflifehackclub)
 3. [2026-10-05 — Work session](#2026-10-05-work-session)
 
 ## Design
@@ -34,9 +34,17 @@ Hi in this session , I initialized the SnapPixel project into EasyEDA workspace 
 
 [Timelapse](https://lookout.hackclub.com/api/media/d291a9c0-5cfe-41ae-a7ce-d72a30f1039c/video.mp4)
 
-### 2026-10-05 — Work session
+### 2026-10-05 — ![Screenshot 2026-10-05 165322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/a6c81c1c9d2c90147334c4cd05d6a85e281f5b1a6e8aee32fd0ed1406091a0ac.png)
 
 **2.3h**
+
+![Screenshot 2026-10-05 165322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/a6c81c1c9d2c90147334c4cd05d6a85e281f5b1a6e8aee32fd0ed1406091a0ac.png)
+
+![Screenshot 2026-10-05 171426](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/09c27a8e641a9ed0f0a70179b6e7140db69b911a5dee6cb69c3cae7d5ea31a87.png)
+
+![Screenshot 2026-10-05 170846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/9bc6eef02c450d2cd6f14028a07c2da3512aabe7abd56457f0e90e7265cbe8c1.png)
+
+Here in this work session i finished my copper tracings including adding 0.6mm width copper traces for GND and VCC power lines and data signals lines to 0.254mm width  and i did high intensity manual routing  but faced many problems such as my DRC was not coming to 0 and i was stuck there for hours , i checked out many youtube videos as possible to figure out the problem .
 
 [Timelapse](https://lookout.hackclub.com/api/media/5e8bb9fe-79ca-4153-808d-c5283f707820/video.mp4)
 
