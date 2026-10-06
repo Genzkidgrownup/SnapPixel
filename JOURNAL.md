@@ -14,15 +14,21 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — ![Screenshot 2026-10-05 125458](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/f9eb0759f300a0846d2e74cfa141a9e3a3d105fba2bfd5d8ea6233f2b44aa0d3.png)](#2026-10-05-screenshot-2026-10-05-125458httpshalflifehackclub)
 2. [2026-10-05 — Work session](#2026-10-05-work-session)
 3. [2026-10-05 — Work session](#2026-10-05-work-session)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — ![Screenshot 2026-10-05 125458](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/f9eb0759f300a0846d2e74cfa141a9e3a3d105fba2bfd5d8ea6233f2b44aa0d3.png)
 
 **2.73h**
+
+![Screenshot 2026-10-05 125458](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/f9eb0759f300a0846d2e74cfa141a9e3a3d105fba2bfd5d8ea6233f2b44aa0d3.png)
+![Screenshot 2026-10-05 233410](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/c5be16ece76f1c92293206b9a59eddcc739b1fa872c8349b810677cf7e0b1276.png)
+![Screenshot 2026-10-05 143400](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/54a43c31c8b69eb7e60ab8ef29c5b06a64c4d726a7e72fdba02879d0868a235d.png)
+
+Hi in this session , I initialized the SnapPixel project into EasyEDA workspace environment. Placed the primary components and made the schematic diagram, Afterwards moving into PCB , where i engineered
 
 [Timelapse](https://lookout.hackclub.com/api/media/6d789b2c-b293-4810-86bf-733b5ecfb1fb/video.mp4)
 
