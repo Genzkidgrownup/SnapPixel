@@ -16,7 +16,7 @@
 
 1. [2026-10-05 — ![Screenshot 2026-10-05 125458](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/f9eb0759f300a0846d2e74cfa141a9e3a3d105fba2bfd5d8ea6233f2b44aa0d3.png)](#2026-10-05-screenshot-2026-10-05-125458httpshalflifehackclub)
 2. [2026-10-05 — ![Screenshot 2026-10-05 165322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/a6c81c1c9d2c90147334c4cd05d6a85e281f5b1a6e8aee32fd0ed1406091a0ac.png)](#2026-10-05-screenshot-2026-10-05-165322httpshalflifehackclub)
-3. [2026-10-05 — Work session](#2026-10-05-work-session)
+3. [2026-10-05 — ![Screenshot 2026-10-05 181953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/166942b434563cde8cd46c02267d155a0b8345be38f54b7e2d1380baaed6fda9.png)](#2026-10-05-screenshot-2026-10-05-181953httpshalflifehackclub)
 
 ## Design
 
@@ -48,9 +48,23 @@ Here in this work session i finished my copper tracings including adding 0.6mm w
 
 [Timelapse](https://lookout.hackclub.com/api/media/5e8bb9fe-79ca-4153-808d-c5283f707820/video.mp4)
 
-### 2026-10-05 — Work session
+### 2026-10-05 — ![Screenshot 2026-10-05 181953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/166942b434563cde8cd46c02267d155a0b8345be38f54b7e2d1380baaed6fda9.png)
 
 **3.27h**
+
+![Screenshot 2026-10-05 181953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/166942b434563cde8cd46c02267d155a0b8345be38f54b7e2d1380baaed6fda9.png)
+
+![Screenshot 2026-10-05 180021](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/311732f4ec8e9bda58af7ae2cc28df55921eedb41668fd8bd5e2759fa8f70d2b.png)
+
+![Screenshot 2026-10-05 135940](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/5915199e70621d59c9ad513b2e1e293ca0a7030c898eb0760b098b25b7c74e88.png)
+
+![Screenshot 2026-10-05 140037](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/7b4a764922fed2fcf9e8a8099867eec9515d5f0e0d5fd9f66dc6f65dcedac6f2.png)
+
+![Screenshot 2026-10-05 205038](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/871d995524fdbb105325e232c72745120c39da0197da1e8dd49052ed7114097e.png)
+
+![Screenshot 2026-10-05 205015](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/7808e4560131fcab60262b699d6474fff0d8a1d9c1bd70cd30adf6477eaaadf4.png)
+
+Here I finalized my physical layout by running DEEP design rule checks which finally came 0 after solving the previous problems i faced and checked all the clearances needed for factory manufacturing , Then i put solid copper ground zones for clearing any electrical noise which could have been produced and then put 2 custom silkscreen designs one saying "SnapPixel by ayush" in the top layer and another one branding my own startup company "Avero"  i wanted to open . after that i started firmware , where i started debugging my code and understood some logics from youtube to run my custom animation
 
 [Timelapse](https://lookout.hackclub.com/api/media/dd83cde7-6271-477d-8406-d8efcfa38ee1/video.mp4)
 
