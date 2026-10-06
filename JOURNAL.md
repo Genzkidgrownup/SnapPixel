@@ -28,7 +28,7 @@
 ![Screenshot 2026-10-05 233410](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/c5be16ece76f1c92293206b9a59eddcc739b1fa872c8349b810677cf7e0b1276.png)
 ![Screenshot 2026-10-05 143400](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/54a43c31c8b69eb7e60ab8ef29c5b06a64c4d726a7e72fdba02879d0868a235d.png)
 
-Hi in this session , I initialized the SnapPixel project into EasyEDA workspace environment. Placed the primary components and made the schematic diagram, Afterwards moving into PCB , where i engineered
+Hi in this session , I initialized the SnapPixel project into EasyEDA workspace environment. Placed the primary components such as Arduino Nano V3.0 and OLED 0.96inch and 2 buttons one switch and one piezo buzzer .Here i first made a Big PCB of 60 x 60mm but afterwards i tried  highly dense outline to make snapPixel outline pushing my PCB designing skills and placed the components ,but tracing out the Copper tracks where left .
 
 [Timelapse](https://lookout.hackclub.com/api/media/6d789b2c-b293-4810-86bf-733b5ecfb1fb/video.mp4)
 
