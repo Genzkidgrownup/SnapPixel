@@ -18,7 +18,7 @@
 2. [2026-10-05 — ![Screenshot 2026-10-05 165322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/a6c81c1c9d2c90147334c4cd05d6a85e281f5b1a6e8aee32fd0ed1406091a0ac.png)](#2026-10-05-screenshot-2026-10-05-165322httpshalflifehackclub)
 3. [2026-10-05 — ![Screenshot 2026-10-05 181953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/166942b434563cde8cd46c02267d155a0b8345be38f54b7e2d1380baaed6fda9.png)](#2026-10-05-screenshot-2026-10-05-181953httpshalflifehackclub)
 4. [2026-10-06 — ![Screenshot 2026-10-07 035613](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/fEl27nUId85bdpY1FRjmh6N1ebYpyxYm/bcb44428657cdf8a1b24b330603fe626ce58cbf132effe6d0589bede0b282203.png)](#2026-10-06-screenshot-2026-10-07-035613httpshalflifehackclub)
-5. [2026-10-06 — Work session](#2026-10-06-work-session)
+5. [2026-10-06 — Finally, week one has come to an end for me. I enjoyed this time so much, learning troubleshooting and chatting with Hack Clubbers on Slack. I will remember this week for the rest of my life. Thanks a](#2026-10-06-finally-week-one-has-come-to-an-end-for-me-i-enjo)
 
 ## Design
 
@@ -86,8 +86,10 @@ I was developing the firmWare in this big session , went through many bugs in OL
 
 [Timelapse](https://lookout.hackclub.com/api/media/765f0664-55f7-4915-9abe-6079fd1dfa8f/video.mp4)
 
-### 2026-10-06 — Work session
+### 2026-10-06 — Finally, week one has come to an end for me. I enjoyed this time so much, learning troubleshooting and chatting with Hack Clubbers on Slack. I will remember this week for the rest of my life. Thanks a
 
 **0.08h**
+
+Finally, week one has come to an end for me. I enjoyed this time so much, learning troubleshooting and chatting with Hack Clubbers on Slack. I will remember this week for the rest of my life. Thanks again to Hack Club for giving us such an opportunity!
 
 [Timelapse](https://lookout.hackclub.com/api/media/7e725a59-5288-4e57-90b9-b9128489bc20/video.mp4)
