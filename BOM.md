@@ -21,7 +21,7 @@
 | [3.7V 500mah 1S battery](https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/) | its a battery | 1 | $2.79 | $2.79 | [robu.in](https://robu.in/product/500mah-pcm-protected-micro-li-po-battery/) |
 | [TP4056 module](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) | for charging battery | 1 | $0.20 | $0.20 | [robu.in](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
 | **Parts subtotal** | — | — | — | **$7.57** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$7.57** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$10.57** | — |
 
-$57.43 left of the tier's funding.
+$54.43 left of the tier's funding.
