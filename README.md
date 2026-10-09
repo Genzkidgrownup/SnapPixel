@@ -48,7 +48,18 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 
 <img width="35%" height="677" alt="image" src="https://github.com/user-attachments/assets/feb5c03a-9ef9-4c2c-a3fc-57a090428003" /><img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/49456eec-9af1-48c6-b23f-6807d0355ad3" />
 
+## 3D file designing from scratch:
 
+**Total length**:compressed the shell into a 78mm x 30mm heart shaped pixelated body  
+  
+**Main attraction** : As its name is SnapPixel , i thought to cover it up with Pixels so yea i covered with many Pixels as possible over it   
+  
+**Colouring** : If possible by your printer or the CAD company , making the Pixels of red and the normal body with Black filament will instantly catch anyones eyes  
+  
+
+## 3D design preview :
+
+<img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/42b274b2-0712-4472-9009-5bcbdcfdc3a8" /><img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/b85953f7-e7c8-46ab-8217-ab81e5c4d783" />
 
 
 
@@ -81,17 +92,17 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 >
 >Action 1: Pressing the Left Button (SW1) — The Animation
 >
->The moment a user clicks SW1, the device instantly wakes up and executes a high-speed, interactive visual animated show:
+>The moment a user clicks SW1, the device instantly wakes up and executes a interactive visual animated show:
 >
->• The Heartbeat Pulse: The 0.96" OLED screen springs to life, playing a gorgeous double-cycle pumping animation of  8-bit pixel heart loop (cycling through all >46 frames twice back-to-back).
+>• The Heartbeat Pulse: The 0.96" OLED screen glows up , playing a gorgeous double-cycle  animation of  8-bit pixel heart loop (cycling through all >46 frames twice ).
 >
->• The Custom photo: The exact millisecond the heart finish pumping, the screen cuts smoothly to reveal the customer's uploaded custom photo / logo bitmap (or >their custom loaded photo). The custom image freezes brightly on screen for exactly 2.5 seconds.
+>• The Custom photo: The exact millisecond the heart finish pumping, the screen cuts smoothly to reveal the customer's uploaded custom photo / logo bitmap (or >their custom loaded photo). The custom image freezes brightly on screen for exactly 2.5 seconds(you can increase or decrease in the code LULL).
 >
->• Fading screen: Once the timer expires, the screen automatically clears back to a deep, power-saving black resting state, waiting for the next interaction.
+>• Fading screen: Once the timer expires, the screen automatically clears back to a  power-saving black resting state, waiting for the next interaction with my >snapPixel.
 >
 >Action 2: Pressing the Right Button (SW2) — The Sound system
 >
->Clicking SW2 shifts the system into secondary Sound parameters, which lets:
+>Clicking SW2 shifts the system into secondary Sound system, which lets:
 >
 >• A custom note: gets played once its done with a passive buzzer looping through several notes 
 
