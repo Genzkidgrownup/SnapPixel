@@ -6,7 +6,7 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 
 ## Why I made this ???
 >> Implementation OF AI and robotics has entered in every field 
->> SO why not we ?? gift something INNOVATIVE to our loved ONES ??
+>> SO why not we ?? gift something INOVATIVE to our loved ONES ??
 >> Well we can now <INTRODUCING SnapPixel>
 
 
