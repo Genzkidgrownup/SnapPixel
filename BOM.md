@@ -22,9 +22,7 @@
 | [TP4056 module](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) | for charging battery | 1 | $0.20 | $0.20 | [robu.in](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
 | [2mm female holders](https://robu.in/product/2mm-pitch-female-berg-strip-40x1-2pcs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcrMiEwynUW87yeH17Xv32ce&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUxoKQc4Z83b6AfJsmGhTEEvEALxjl7FB4CuvGB2jcErwxyRumMOagkaAn4fEALw_wcB) | for PCB socket rails | 2 | $0.39 | $0.78 | [robu.in](https://robu.in/product/2mm-pitch-female-berg-strip-40x1-2pcs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcrMiEwynUW87yeH17Xv32ce&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUxoKQc4Z83b6AfJsmGhTEEvEALxjl7FB4CuvGB2jcErwxyRumMOagkaAn4fEALw_wcB) |
 | [PCB](https://www.lioncircuits.com/quote) | FOR my PCB | 1 | $11.53 | $11.53 | [lioncircuits.com](https://www.lioncircuits.com/quote) |
-| [3D part from #printing-legion shipment cost](https://printlegion.hackclub.com/) | For enclosure | 1 | $2.00 | $2.00 | [#printing-legion](https://printlegion.hackclub.com/) |
-| **Parts subtotal** | — | — | — | **$26.56** | — |
+| **Parts subtotal** | — | — | — | **$24.56** | — |
 | **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$29.56** | — |
+| **Total** | — | — | — | **$27.56** | — |
 
-$35.44 left of the tier's funding.
