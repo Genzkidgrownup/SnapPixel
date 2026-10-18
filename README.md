@@ -46,7 +46,8 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 **SILK SCREEN**: Used my own brand "Avero" logo in the bottom silkscreen 
 
 ## COPPER TRACING & SILCK SCREEN preview:
-<img width="35%" height="436" alt="image" src="https://github.com/user-attachments/assets/a3ad5b0a-5085-4bf8-b8d5-bb0257465493" /><img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/b5f02da6-f438-48f2-8de5-0cdd3c73cae8" />
+<img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/760967e1-6d86-496a-ba99-b608541590ff" /><img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/b5f02da6-f438-48f2-8de5-0cdd3c73cae8" />
+
 
 
 
