@@ -4,13 +4,13 @@
 <!-- Generated: 2026-10-11T15:55:44.926Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuut9m5g0a9501smgkdbjmqi). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > Its a custom Heart shaped video keepsake gift box product , I want to develop  what will it feature is an integrated 0.96 OLED screen running on custom animations , dual button giving the user to play the video of thier own choice , and a buzzer all controlled by an Arduino NanoV3.0 on a custom PCB
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 34h | 17 |
+| Week 1 | Tier 1 | 34h | 17 |
 
 ## Contents
 
