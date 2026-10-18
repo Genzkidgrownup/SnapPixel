@@ -42,7 +42,6 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 
 **ROUTING TRACES** : USED 0.6mm trace width for power lines and 0.254mm trace width for Data signals  
 
-**NOISE CLEARANCE**: Put 2 massive ground copper plates over Top and bottom layer for clearing out any Electro magnetic noise 
 
 **SILK SCREEN**: Used my own brand "Avero" logo in the bottom silkscreen 
 
@@ -51,7 +50,6 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 
 
 
-<img width="35%" height="677" alt="image" src="https://github.com/user-attachments/assets/feb5c03a-9ef9-4c2c-a3fc-57a090428003" /><img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/49456eec-9af1-48c6-b23f-6807d0355ad3" />
 
 ## Assembly Of 3D part
 **Main enclosure**:
