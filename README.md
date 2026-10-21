@@ -53,6 +53,8 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 
 
 ## Assembly Of 3D part
+>I have given 2 types of editable file , if one does not open up , you can always open the other one( Both has the same content )
+> 
 **Main enclosure**:
 >> FOR 3D model of Heart-shaped Pixelated one(the main theme)i will be using Standoff screws to mount 
 >> The PCB into it 
