@@ -163,10 +163,10 @@ SnaPPixel where 8-bit Technology meets nostalgia🩷**
 | [3.7V 500mah 1S battery](https://www.amazon.in/Electron-500Mah-HCY-602030-R-41202096-Rechargeable/dp/B0DNY3TXRW/ref=asc_df_B0DNY3TXRW?mcid=52ad75a106813f429a5a324bcc0c4329&tag=googleshopdes-21&linkCode=df0&hvadid=710055740841&hvpos=&hvnetw=g&hvrand=7721853369571497671&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061840&hvtargid=pla-2484691285137&psc=1&hvocijid=7721853369571497671-B0DNY3TXRW-&hvexpln=0&gad_source=1) | its a battery | 2 | $3.20 | $6.40 | [amazon](https://www.amazon.in/Electron-500Mah-HCY-602030-R-41202096-Rechargeable/dp/B0DNY3TXRW/ref=asc_df_B0DNY3TXRW?mcid=52ad75a106813f429a5a324bcc0c4329&tag=googleshopdes-21&linkCode=df0&hvadid=710055740841&hvpos=&hvnetw=g&hvrand=7721853369571497671&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061840&hvtargid=pla-2484691285137&psc=1&hvocijid=7721853369571497671-B0DNY3TXRW-&hvexpln=0&gad_source=1) |
 | [TP4056 module](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) | for charging battery | 1 | $0.20 | $0.20 | [robu.in](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
 | [2mm female holders](https://robu.in/product/2mm-pitch-female-berg-strip-40x1-2pcs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcrMiEwynUW87yeH17Xv32ce&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUxoKQc4Z83b6AfJsmGhTEEvEALxjl7FB4CuvGB2jcErwxyRumMOagkaAn4fEALw_wcB) | for PCB socket rails | 2 | $0.39 | $0.78 | [robu.in](https://robu.in/product/2mm-pitch-female-berg-strip-40x1-2pcs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcrMiEwynUW87yeH17Xv32ce&gclid=Cj0KCQjwuJLWBhD_ARIsAIBcRUxoKQc4Z83b6AfJsmGhTEEvEALxjl7FB4CuvGB2jcErwxyRumMOagkaAn4fEALw_wcB) |
-| [PCB](https://www.lioncircuits.com/quote) | FOR my PCB | 1 | $11.53 | $11.53 | [lioncircuits.com](https://www.lioncircuits.com/quote) |
-| **Parts subtotal** | — | — | — | **$24.56** | — |
+| [PCB](https://robu.in/product/online-pcb-manufacturing-service/) | FOR my PCB | 1 | $9.61 | $9.61  | [robu.in](https://robu.in/product/online-pcb-manufacturing-service/) |
+| **Parts subtotal** | — | — | — | **$22.64** | — |
 | **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$27.56** | — |
+| **Total** | — | — | — | **$25.64** | — |
 
 ## License
 This project is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial). 
